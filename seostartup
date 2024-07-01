@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewpoint" content="width=device-with, initial-scale=1">
+        <title>KXI Media</title>      <!-- # important as this is what google sees to descirbe your page before they see it  --><
+        <!-- # helps google refrence your site -->
+        <meta name="description" content="Description of what is on your page, google will read this and thereby assess it. Around 160 characters">            
+    </head>
+    <body>
+        <nav>
+            <!-- where your navigation goes -->
+            <ul>
+                <li>
+                    <!-- list of navigation buttons -->
+                    <a href="about.html">About</a>
+                </li>
+                <li>
+                    <a href="/Our-Team/2024-Our-Team">Our Team</a>
+                </li>
+            </ul>
+        </nav>
+
+        <header>
+            content below the nav but above the main (optional)
+        </header>
+        <main>
+            <h1>SEO Startup</h1> 
+            <!-- should be the same as the title, and there should only be 1 h1 tag -->
+            <h2>Subheader of the h1</h2>
+            <!-- you can have multiple h2's becasue heres where you will describe the content -->
+            <!-- should always be in numerical order -->
+            <p>
+                <!-- this is a paragraph; make sure that it is not a header as that goes in the h tag -->
+            </p>
+            <ul>
+                <li>Unordered list bullet points</li> 
+                <!-- this list is a bullet point list -->
+                <li>Unordered list bullet points</li>
+            </ul>
+
+            <ol>
+                <li>Step 1</li>
+                <!-- this list is a numbered list -->
+                <li>Step 2</li>
+            </ol>
+        </main>
+        <footer>
+            <a 
+                
+                href="https//facebook.com"
+                aria-label="where this facebook page is going" 
+                
+                <!-- aria label describes where the link is going -->
+            >
+                <img 
+                src="./images/nameofurl.svg"
+                alt="describe the picture as if you were blind"
+                />
+
+                <!--footer  tells google that it is not the most important part of the webstie (main is) but is still worth mentioning -->
+            
+            </a>
+            <ul>
+                <li>
+                    <a href="About.html">About</a>
+                </li>
+            </ul>
+        </footer>
+    </body>
+</html>
+
+
